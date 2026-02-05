@@ -281,3 +281,6 @@ v> sunrise leaks over antenna field
 s> first clean tone
 
 d| we synchronize
+
+Credit:
+Proposed by Jericho 'Onamadderz' O'Neill, 2026.
