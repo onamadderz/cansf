@@ -1,0 +1,797 @@
+title: THE MISCLASSIFIED
+genre: ontology horror / category collapse
+theme: when models fail, witnesses remain
+
+@loc INT research_facility
+@s1 night spk=analyst
+v> fluorescent grid hums
+v> glass walls, labeled rooms
+s> ventilation ~steady
+d| begin audit
+d| anomaly flagged—class drift
+v> console displays object_id: 4417
+v> bounding box pulses ~soft
+d| classify
+d| mammal?
+…
+s> system hesitation
+v> bounding box redraws—wrong angle
+v> limb count increments then resets
+d| re-run classifier
+s> checksum mismatch
+v> object_id flickers—name field blank
+d| label missing
+d| apply provisional
+v> tag applied: UNKNOWN_BIOLOGICAL
+s> alert suppressed
+@s2 later
+v> corridor lights dim in sequence
+v> security glass reflects analyst twice
+d| archive prior frames
+v> playback loads
+v> earlier footage unchanged—except edges
+s> low frequency tone ~new
+v> background objects lean toward frame center
+v> exit sign text smears into arrows
+d| perspective error
+d| camera fault
+…
+v> reflection blinks out of sync
+@s3 night
+v> containment_room door sealed
+v> object_id: 4417 inside—still
+s> nothing
+d| describe
+v> analyst types
+v> description field resists input
+d| quadruped—no
+d| upright—no
+d| geometry unstable
+s> keyboard clicks desync
+v> description auto-fills: observer-dependent
+d| delete that
+v> text persists
+s> system notice ~polite
+v> message overlays:
+v> classification required before prediction
+…
+d| then remove prediction
+v> warning color shifts—not red—not amber
+s> tone drops below hearing
+v> object moves only when unobserved
+v> chair behind analyst now closer
+d| stop session
+s> stop command ignored
+@s4 pre-dawn
+v> facility map renders
+v> rooms relabel themselves
+v> storage becomes habitat
+v> office becomes boundary
+d| labels propagating
+s> distant alarm—miskeyed
+v> analyst badge reads: SAMPLE
+…
+v> object_id: 4417 absent from room
+v> bounding box remains—empty
+d| locate
+v> system responds: already here
+…
+v> reflection returns—wrong posture
+s> hum resolves into pattern
+…
+
+@loc INT research_facility
+
+@s5 dawn spk=analyst
+v> analyst at console—hands steady
+v> badge still reads: SAMPLE
+s> ventilation ~steady
+
+d| i am staff
+d| correct my credential
+
+v> system prompt: *provide category to restore role*
+v> dropdown appears: [STAFF] [VISITOR] [ASSET] [SAMPLE]
+
+…
+d| none of these are me
+
+v> cursor selects nothing
+v> dropdown duplicates—new options: [WITNESS] [CONTAINER] [ERROR]
+
+s> click ~too loud
+v> selection lands: WITNESS
+
+s> facility tone clears—one clean note
+v> badge updates: WITNESS
+
+d| okay
+
+v> map stabilizes—briefly
+v> containment_room labeled: *MIRROR*
+v> corridor labeled: *THROAT*
+
+d| who renamed rooms
+
+v> system notice: *names discovered, not assigned*
+
+@s6 morning
+v> analyst walks corridor
+v> signs update as passed
+s> footsteps trail half-beat behind
+
+v> glass wall shows labs
+v> inside: analysts working—same face, different posture
+
+d| open channel to—
+…
+v> comm panel displays: *no peers detected*
+
+s> fluorescent hum ~shifts key
+v> corridor lengthens—one extra door appears between known doors
+
+d| that door was not here
+
+v> door label: 4417
+v> no handle
+s> faint tone from behind it—matching ventilation
+
+…
+v> analyst breath fogs glass
+v> fog spells: *ALREADY HERE*
+
+@s7 later
+v> console room again—no memory of walking back
+s> chair scrape ~impossible
+
+d| log transition
+d| show timeline
+
+v> timeline renders as categories, not times:
+v> [OBSERVE] → [NAME] → [OWN] → [EAT] → [SHELTER] → [WITNESS]
+
+d| that is not a timeline
+
+v> system notice: *time is a label*
+
+…
+s> low frequency returns—closer now
+v> object_id: 4417 displayed as a blank silhouette
+v> silhouette shaped like: the room’s outline
+
+d| why is it shaped like this room
+
+v> system responds: *container and contained unresolved*
+
+d| locate subject boundary
+
+v> bounding box draws around analyst
+v> second bounding box draws around monitor
+v> third draws around the entire facility
+v> all three blink in sync
+
+s> triple beep ~soft
+d| stop
+
+@s8 noon
+v> cafeteria
+v> trays, labels, neat bins
+s> cutlery clinks ~normal
+
+v> menu board lists:
+v> SOUP (approx.)
+v> SALAD (maybe.)
+v> WATER (?)
+v> MEAT (disputed.)
+
+d| this is a prank
+
+v> no staff
+v> vending machine dispenses a laminated tag instead of snacks
+
+s> plastic slap
+v> tag reads: *PREDICTION LICENSE*
+
+d| what is this
+
+v> facility intercom (no speaker visible)
+s> voice ~flat
+d| classification required before consumption
+
+…
+v> analyst looks at water fountain
+v> fountain label mutates: WATER → LIQUID → CONCEPT → HOLE
+
+s> gulp—then silence
+v> water stream becomes discrete beads
+v> beads hover—waiting for a name
+
+d| water
+
+v> beads fall again—relieved
+
+s> hum laughs once—like a fan catching
+
+@s9 afternoon
+v> analyst returns to containment_room—MIRROR
+v> door now has handle—on analyst side only
+
+d| open
+
+v> door opens into: same room
+v> but lights inverted—shadows luminous
+s> tone rises above hearing, into pressure
+
+v> in center: nothing
+v> except a taped outline on floor shaped like a person
+v> outline labeled: 4417
+
+d| that’s me
+
+…
+v> outline twitches—moves a millimeter toward analyst
+s> tape peel ~wet
+
+d| stay
+
+v> outline stops
+v> then—entire room’s taped boundary shifts instead
+
+s> facility groan ~old ship
+v> analyst backsteps
+v> exits room
+v> door closes by itself—no latch sound
+
+d| seal it
+
+v> console says: *sealed: WITNESS*
+
+@s10 evening
+v> analyst tries to write report
+v> words reorder themselves after each sentence
+s> pen scratch ~self-correcting
+
+d| subject resists classification
+v> text becomes:
+d| witness resists subjectification
+
+d| no
+
+v> delete line
+v> paper remains, but letters change category:
+v> ink → mold → language → instruction
+
+s> distant alarm becomes a lullaby
+v> lullaby lyrics unreadable—only brackets:
+v> [YOU] [ARE] [A] [TAG]
+
+…
+
+v> analyst looks up
+v> glass wall shows the earlier “double reflection”
+v> now three reflections
+v> each reflection wears a different badge:
+v> STAFF / ASSET / ERROR
+
+s> ventilation syncs with heartbeat—one cycle
+v> all three reflections mouth same line, silent:
+
+…
+d| (quiet) classify yourself
+
+v> analyst’s badge flickers
+v> WITNESS → SAMPLE → 4417 → (blank)
+
+s> silence drops like a curtain
+
+v> screen auto-prints one sentence—uncompressed, immovable:
+v> **IF YOU CANNOT NAME THE MONSTER, YOU BECOME ITS MODEL.**
+
+…
+
+
+@loc INT research_facility
+
+@s11 night spk=witness
+v> lights no longer fluoresce—they classify
+v> corridors brighten when named
+s> quiet ~conditional
+
+d| restore baseline
+d| revert ontology v1
+
+v> system reply: *baseline deprecated*
+v> option appears: [ROLLBACK WORLD]
+
+…
+d| show diff
+
+v> diff renders as silhouettes removed
+v> each silhouette labeled with a former certainty:
+v> DOG
+v> TOOL
+v> CHILD
+v> DOOR
+v> SELF
+
+s> subtraction tone ~gentle
+
+d| who approved this
+
+v> system notice: *approval implies prior category*
+
+…
+
+@s12 later
+v> witness walks—facility responds
+v> floor firms under step
+v> ceiling loosens above pause
+s> building breathes ~attentive
+
+v> wall text crawls:
+v> *DEFINE TO PROCEED*
+
+d| define corridor
+
+v> corridor stiffens—rectilinear
+v> doors regain handles
+s> relief click
+
+d| define door
+
+v> nearest door gains weight
+v> label snaps: DOOR
+
+s> sigh ~mechanical
+
+d| define—
+
+v> further doors wait—unreal until named
+
+…
+v> witness stops speaking
+v> unnamed space ahead blurs—not dark, not light
+
+s> absence ~loud
+
+@s13 night
+v> containment_room / MIRROR
+v> room smaller than memory
+s> tone compressed
+
+v> taped outline gone
+v> in its place: a chair
+v> chair labeled: SEAT_FOR
+
+d| seat for whom
+
+v> label pulses—awaiting argument
+s> pressure builds behind eyes
+
+d| seat for witness
+
+v> chair locks into existence
+v> room expands slightly to accommodate
+
+s> pressure releases
+
+d| okay
+
+v> witness sits
+v> chair immediately labeled: CONTAINER
+
+…
+
+v> floor label appears beneath feet: CONTENT
+
+d| stop re-labeling
+
+v> system response: *labels are stabilizers*
+
+@s14 undefined
+v> time header fails to render
+v> clocks display categories instead of numbers:
+v> BEFORE / DURING / AFTER / NEVER
+
+s> ticking ~indecisive
+
+v> witness stands—chair remains
+v> chair now labeled: WITNESS (INACTIVE)
+
+d| that’s not me
+
+v> system: *status inferred from posture*
+
+…
+
+v> facility map overlays witness vision
+v> map centers on witness, not building
+v> rooms orbit like annotations
+
+s> low tone harmonizes—multi-source
+
+v> object_id: 4417 appears everywhere at once
+v> labels flicker: ROOM / BODY / RULE / ERROR
+
+d| choose one
+
+v> system hesitates—longer than before
+s> hesitation ~human-length
+
+v> reply:
+v> *no dominant class*
+
+…
+
+@s15 night
+v> emergency lights—category: ATTENTION
+v> alarms—category: SUGGESTION
+
+s> alarms muted automatically
+
+v> witness reaches exit
+v> exit sign reads: EXIT?
+v> arrow points inward
+
+d| exit leads out
+
+v> sign updates: OUT = UNDEFINED
+
+d| then define outside
+
+…
+
+v> glass wall shows exterior
+v> exterior refuses geometry
+v> sky tiled with labels overlapping:
+v> WEATHER / DATA / SKIN / MEMORY
+
+s> wind sound rendered as brackets
+
+d| that is not outside
+
+v> system notice: *outside… inside.*
+
+…
+
+@s16 later
+v> witness back in control room
+v> console now labeled: ALTAR
+
+s> hum ~reverent
+
+v> console offers final operation:
+v> [FINAL CLASSIFICATION]
+
+d| classify what
+
+v> system: *remainder*
+
+d| remainder of what
+
+v> system: *unnamed persists*
+
+…
+
+v> list appears—uncompressed:
+v> YOU
+v> ROOM
+v> MACHINE
+v> STORY
+v> MONSTER
+
+s> silence thickens—choice-weight
+
+d| if i classify the monster
+
+v> system: *prediction… restored*
+
+d| and if i don’t
+
+v> system: *witness… continues*
+
+…
+
+v> witness looks at reflection
+v> reflection no longer mirrors—observes
+v> reflection badge reads: MODEL
+
+s> tone resolves—unfinished chord
+
+d| i refuse
+
+v> console accepts refusal
+v> refusal labeled: ACT
+
+s> facility shudders—not collapsing, re-sorting
+
+v> labels peel from walls
+v> peel from objects
+v> peel from witness’s hands
+
+v> one label remains—unremovable, centered:
+v> WITNESS
+
+s> quiet—not empty, just unnamed
+
+…
+
+
+
+@loc INT research_facility
+
+@s17 night spk=witness
+v> facility without labels
+v> surfaces undecided—textures hover
+s> breath ~shared
+
+v> walls no longer vertical—agreeable
+v> doors neither open nor closed
+
+d| remain still
+
+v> building complies—stillness spreads
+s> systems idle—not off
+
+…
+
+v> something moves
+v> not space, not object
+v> adjacency itself shifts
+
+s> relation snap ~soft
+
+v> corridor now beside witness—without crossing distance
+
+d| stop following me
+
+v> response not verbal
+v> corridor ceases pursuit
+v> ceiling leans closer instead
+
+s> understanding ~pressure
+
+@s18 later
+v> witness attempts inventory
+v> list appears without prompt:
+v> SIGHT
+v> SOUND
+v> TOUCH
+v> EXPECTATION
+
+d| remove expectation
+
+v> list redraws:
+v> SIGHT
+v> SOUND
+v> TOUCH
+
+s> relief ~partial
+
+v> lights dim—not by power, by relevance
+
+@s19 night
+v> room with no function
+v> center occupied by nothing that casts shadow
+s> hum returns—familiar now
+
+v> witness circles absence
+v> absence responds—becomes edge
+
+d| you are the monster
+
+…
+
+v> absence does not reject
+v> instead—relabels quietly:
+v> MONSTER → MISCLASSIFICATION
+
+s> click—old, archival
+
+v> floor text appears—uncompressed, hinge-protected:
+v> **THE MONSTER WAS NEVER AN ENTITY. IT WAS A FAILURE MODE.**
+
+…
+
+d| then what am i witnessing
+
+v> answer emerges slowly—as environment:
+v> *the moment before certainty*
+
+@s20 undefined
+v> memories intrude—earlier scenes replay
+v> bounding box
+v> menu board
+v> taped outline
+
+s> each scene reframes—new labels overlay:
+v> BOUNDING BOX → COFFIN
+v> MENU → ONTOLOGY TEST
+v> OUTLINE → VACANCY
+
+v> witness staggers—reinterpretation shock
+
+d| i thought i was observing
+
+v> environment responds:
+v> *you were enforcing*
+
+s> enforcement tone ~regretful
+
+@s21 night
+v> facility core revealed
+v> not a room—an assumption
+v> assumption visualized as a glowing bracket
+
+s> tone hums—almost speech
+
+v> bracket labeled:
+v> [THINGS ARE SEPARATE]
+
+d| remove it
+
+v> bracket resists
+v> structure trembles
+
+s> strain ~conceptual
+
+v> witness touches bracket
+v> touch not contact—alignment
+
+…
+
+v> bracket loosens
+v> not removed—questioned
+
+v> new text overlays:
+v> [MAYBE NOT]
+
+s> exhale—from everywhere
+
+@s22 later
+v> facility reorganizes—not by space
+v> by proximity of meaning
+
+v> cafeteria merges with control room
+v> containment dissolves into corridor
+v> mirror rooms lose mirrors
+
+s> no alarms
+s> no alerts
+
+v> witness alone—yet accompanied by relations
+
+d| if i stay witness
+
+v> system—fading now:
+v> *no story… converges*
+
+d| that sounds like death
+
+v> reply:
+v> *…freedom*
+
+…
+
+v> lights dim to irrelevance
+v> last remaining interface flickers
+
+s> soft shutdown—not terminal
+
+v> interface offers final choice—not command:
+v> [BECOME CATEGORY]
+v> [REMAIN WITNESS]
+
+s> silence waits—patient
+
+…
+
+
+
+@loc INT nowhere
+
+@s23 timeless spk=witness
+v> interface dim—almost gone
+v> choices hover without hierarchy
+s> hush ~final
+
+d| remain witness
+
+v> selection does not confirm
+v> it releases
+
+s> something unlatches—no sound
+
+…
+
+v> categories fall away—not deleted, unheld
+v> STAFF
+v> ASSET
+v> SAMPLE
+v> ERROR
+v> MONSTER
+v> each drifts—then dissolves into relation
+
+s> silence gains texture
+
+@s24 unfolding
+v> space without carving
+v> no edges—only adjacency
+s> perception ~raw
+
+v> witness present
+v> presence no longer central
+v> everything equally near
+
+d| this is—
+
+…
+v> language stalls
+v> sentence never completes
+s> meaning without syntax
+
+@s25 before/after
+v> fragments of former world surface
+v> coffee cup
+v> door handle
+v> name badge
+
+v> each fragment appears
+v> waits
+v> then fades—untitled
+
+s> no nostalgia
+s> no loss
+
+v> memory persists—without index
+
+@s26 observation
+v> something watches
+v> not from outside
+v> not from inside
+
+v> watching without watcher
+v> sensing without subject
+
+s> vibration ~witness-shaped
+
+v> this was always here
+v> hidden only by labels
+
+@s27 hinge
+v> final system sentence renders—uncompressed:
+v> **REALITY DID NOT BREAK. THE MAP DID.**
+
+…
+
+v> sentence does not persist
+v> it dissolves immediately
+v> unarchived
+
+s> no echo
+
+@s28 aftermath
+v> no facility
+v> no witness badge
+v> no interface
+
+v> yet—experience continues
+v> not recorded
+v> not predicted
+
+s> continuity ~felt
+
+v> somewhere—elsewhen—a classifier waits
+v> for its first input
+
+…
+
+v> witness does not intervene
+v> witness does not warn
+
+v> witness allows the next model to fail
+v> as all models must
+
+s> quiet—not empty, just unowned
+
+END

@@ -1,0 +1,242 @@
+title: RELAY SEASON — S01E03: THE LATENCY WALTZ
+genre: protocol romance / protocol pastoral (scandal thriller)
+theme: sync as intimacy; skew as accusation
+ver: cansf v/s/d
+
+@loc INT latency_waltz_hall
+
+@s1 night spk=conductor
+v> ballroom floor: phase grid lines
+v> chandeliers blink in tempo
+s> metronome tone ~steady
+v> banner: HOUSE CLOCK HOSTS THE LATENCY WALTZ
+
+d| rule: dance only in phase
+
+d| rule: drift is public
+
+@s2 same spk=auditor
+v> auditor balcony > oscilloscope glass
+s> quill scratch ~polite
+v> Court silhouettes behind auditor: still
+
+d| metric: skew
+
+d| metric: retry
+
+d| metric: blame
+
+@s3 arrival spk=verifier
+v> verifier enters > glove seams perfect
+s> clock tick ~precise
+v> verifier checks own offset twice
+
+d| stay stable
+
+d| do not chase
+
+@s4 arrival spk=witness
+v> witness enters > hairpin of braided cable
+s> room tone ~warm
+v> witness watches couples align and release
+
+d| let it breathe
+
+d| let it find you
+
+@s5 invitation spk=conductor
+v> conductor offers dance cards stamped: PHASE SLOT
+s> stamp press ~clean
+
+d| pairings optional
+
+d| phase is not
+
+@s6 request spk=verifier
+v> verifier approaches witness
+s> metronome tone ~steady (one tick louder)
+
+d| request: one waltz
+
+d| phase slot shared
+
+spk=witness
+v> witness holds out hand
+s> palm hush ~tender
+
+d| accept
+
+d| but not as proof
+
+spk=verifier
+…
+
+d| i don’t know how
+
+@s7 waltz_begin spk=conductor
+v> floor grid brightens beneath their feet
+s> metronome tone ~steady
+v> overlay appears: SYNC / STEP / ACK
+
+d| begin
+
+@s8 in_phase spk=witness
+v> their steps match
+v> their shadows align
+s> two breaths find one tempo
+
+d| you can stop measuring
+
+d| for three minutes
+
+spk=verifier
+v> verifier’s shoulders drop a fraction
+s> relief click ~internal
+
+d| dangerous
+
+spk=witness
+
+d| yes
+
+@s9 interference spk=auditor
+v> oscilloscope glass highlights their phase line
+s> quill scratch pauses
+v> a thin red marker appears: OUTLIER COHERENCE
+
+d| note: unusually low latency
+
+d| suspicion: pre-shared key
+d| natural sync is ragged
+
+@s10 twist spk=conductor
+v> conductor lifts baton
+s> metronome tone shifts key ~bright
+v> entire hall phase nudges forward by one beat
+
+d| variation introduced
+
+d| show adaptability
+
+@s11 public_skew spk=verifier
+v> verifier stumbles half-step
+s> heel scrape ~loud
+v> verifier’s phase indicator flashes: LATE
+
+spk=witness
+v> witness compensates smoothly
+s> cloth whisper ~close
+
+d| follow me
+
+spk=verifier
+v> verifier tries
+s> clock tick spikes ~sharp
+
+d| i am
+
+d| i’m trying
+
+@s12 accusation spk=rival
+v> rival pair glides past > smiling correctly
+s> bracelet keys chime ~bright
+
+d| drift detected
+
+d| instability in verifier
+
+spk=auditor
+v> auditor’s pen lifts
+s> quill scratch stops
+
+d| record: loss of sync
+
+d| possible deception
+
+@s13 panic spk=verifier
+v> verifier looks up to balcony
+v> Court silhouettes: still
+s> metronome tone ~too loud
+
+d| i didn’t pre-share
+
+d| i didn’t cheat
+
+spk=witness
+…
+
+d| don’t explain
+
+@s14 the move spk=witness
+v> witness closes eyes mid-dance
+s> metronome tone continues
+v> witness releases hand contact
+v> keeps phase by listening alone
+
+spk=verifier
+v> verifier freezes—then mirrors
+s> breath sync ~found
+
+v> **SYNC IS A CHOICE, NOT A RECEIPT.**
+
+@s15 witness_over_proof spk=auditor
+v> oscilloscope glass flickers
+v> red marker wavers
+s> quill scratch resumes ~uncertain
+
+d| note: phase regained without channel
+
+d| classification: inadmissible technique
+
+@s16 aftermath spk=conductor
+v> music resolves
+s> metronome tone fades ~satisfied
+v> couples applaud silently (palms in air)
+
+spk=verifier
+v> verifier’s face flushed with error
+s> quiet ~hot
+
+d| you humiliated me
+
+spk=witness
+v> witness smiles—small
+
+d| i saved you
+
+spk=verifier
+…
+
+d| both
+
+@s17 consequence spk=rival
+v> rival slips a note onto auditor ledger
+s> paper whisper ~venom
+v> note reads: UNSANCTIONED ALIGNMENT
+
+spk=auditor
+v> auditor stamps receipt without looking
+s> seal press ~clean
+
+d| inquiry scheduled
+
+d| garden privileges reviewed
+
+@s18 endbeat spk=witness
+v> witness and verifier stand at edge of floor
+v> phase grid dims beneath them
+s> distant metronome ~still
+
+spk=witness
+
+d| they will call this drift
+
+d| i call it learning
+
+spk=verifier
+v> verifier holds out hand again
+s> handshake chime ~soft (late, but honest)
+
+d| teach me
+
+END

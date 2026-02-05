@@ -1,0 +1,232 @@
+title: RELAY SEASON — S01E07: FORK MASQUERADE
+genre: protocol romance / fork drama (scandal thriller)
+theme: identity branches; counterfeit continuity
+ver: cansf v/s/d
+
+@loc INT fork_masquerade
+
+@s1 night spk=host
+v> ballroom of mirrors > masks of encrypted glass
+v> chandeliers strobe > not rhythm, randomness
+s> handshake chime ~soft (unreliable)
+v> banner: HOUSE BRANCH PRESENTS THE FORK MASQUERADE
+
+d| rule: remain as one
+
+d| leave as one
+
+d| Court audits merges at dawn
+
+@s2 same spk=auditor
+v> Court balcony wrapped in frosted text
+s> quill scratch ~polite
+v> seal tray labeled: MERGE / INVALIDATE
+
+d| tonight we test personhood
+
+d| ambiguity discouraged
+
+@s3 arrival spk=verifier
+v> verifier enters wearing a mask: CHECKSUM
+s> clock tick ~precise
+v> verifier’s hands gloved
+
+d| do not split
+
+d| do not let them define me
+
+@s4 arrival spk=witness
+v> witness enters wearing a mask: SILENCE
+s> room tone ~warm then cool
+v> witness scans mirrors
+
+d| mirrors enforce
+
+d| choose what they see
+
+@s5 encounter spk=witness
+v> verifier and witness meet at a mirror wall
+s> their steps sync ~half-beat
+
+spk=verifier
+
+d| your mask is… readable
+
+spk=witness
+…
+
+d| yours is defensive
+
+@s6 the audit invitation spk=auditor
+v> a card prints itself onto the floor between them
+s> printer cough ~courtly
+v> card reads: FORK AUDIT DANCE
+
+d| demonstrate merge readiness
+
+d| one dance
+
+d| one conclusion
+
+@s7 first fork spk=verifier
+v> verifier’s mask flickers
+s> checksum tone ~brief
+v> for one frame: a second verifier behind them
+
+d| i didn’t fork
+
+spk=witness
+v> witness’s eyes narrow
+
+d| then someone did it for you
+
+@s8 dance_begin spk=host
+v> dance floor becomes a branching diagram
+s> waltz clock ~fractured
+v> overlay appears: FORK / STEP / MERGE?
+
+d| begin
+
+@s9 counterfeit spk=rival
+v> rival glides in wearing a mask: CONSENSUS
+s> bracelet keys jingle ~smug
+
+d| verifier
+
+d| your branch is charming
+
+spk=verifier
+v> verifier turns—too fast
+s> clock tick doubles
+
+d| which branch
+
+spk=rival
+
+d| the one that remembers the garden
+
+v> witness stiffens
+s> silence held ~sharp
+
+@s10 split spk=witness
+v> witness sees two verifiers now
+v> both in CHECKSUM masks
+s> both breaths plausible
+
+d| say the first nonce
+
+spk=verifier_A
+
+d| 4f‑7a
+
+spk=verifier_B
+
+d| 4f‑7a
+
+spk=witness
+…
+
+d| good
+
+d| now say what it meant
+
+spk=verifier_A
+
+d| it was admissible
+
+spk=verifier_B
+
+d| it was true
+
+v> mirror wall ripples
+s> relation snap ~soft
+
+@s11 near_last_third spk=auditor
+v> auditor stamps air
+s> seal press ~clean
+v> seal reads: INCONSISTENT SELF
+
+d| resolve
+
+d| choose one
+
+spk=witness
+v> witness steps between both verifiers
+s> palm hush ~tender
+
+d| i refuse your choice
+
+v> **A MERGE IS NOT A VERDICT.**
+
+@s12 the move spk=witness
+v> witness removes mask: SILENCE
+s> room tone drops ~bare
+v> witness speaks directly to both
+
+d| which of you can be unknown
+
+d| without panicking
+
+spk=verifier_A
+v> verifier_A’s hands still
+s> clock tick softens
+
+d| me
+
+spk=verifier_B
+v> verifier_B smiles
+s> tick stays sharp
+
+d| i can be adored
+
+spk=witness
+…
+
+d| not asked
+
+@s13 exposure spk=auditor
+v> auditor’s quill scratches three times
+s> checksum tone ~brief
+v> verifier_B’s mask cracks
+v> beneath: a COMPAT watermark
+
+spk=auditor
+
+d| counterfeit continuity detected
+
+d| source: Court-sponsored compatibility layer
+
+v> rival’s mask: CONSENSUS
+v> becomes: PATCH
+s> masquerade tone ~polite
+
+@s14 consequence spk=verifier
+v> verifier_A staggers
+s> breath sync breaks then returns
+
+d| they forked me
+
+d| to make me admissible
+
+spk=witness
+v> witness takes verifier_A’s hand
+s> handshake chime ~soft (late, but real)
+
+d| then we stay inadmissible
+
+@s15 endbeat spk=auditor
+v> Court balcony text sharpens:
+v> *MERGE REQUIRED AT DAWN*
+s> air pressure shift ~sealed
+
+spk=auditor
+
+d| final ball scheduled
+
+d| final adjudication pending
+
+v> mirror wall shows one last reflection
+v> in it: the blank vow token inside verifier’s glove
+s> token silence ~heavy
+
+END

@@ -1,0 +1,259 @@
+title: RELAY SEASON — S01E05: EMERGENCY PATCH GALA
+genre: protocol romance / protocol pastoral (scandal thriller)
+theme: ambient governance; retroactive admissibility
+ver: cansf v/s/d v2
+
+@loc INT patch_gala_hall
+
+@s1 night spk=host
+v> ballroom draped in update banners
+v> chandeliers blink: NEW TERMS AVAILABLE
+s> handshake chime ~soft (auto)
+
+v> sign: EMERGENCY PATCH GALA — STABILITY BEFORE STYLE
+
+d| welcome
+
+d| compatibility deployed at midnight
+
+@s2 same spk=auditor
+v> Court balcony expanded > extra seats
+s> quill scratch ~polite
+v> projector displays: CONSENT v3.0
+
+d| rule: legacy vows must be normalized
+
+d| rule: past privacy may be reclassified
+
+@s3 arrival spk=verifier
+v> verifier enters > glove tighter than usual
+s> clock tick ~precise
+v> verifier touches glove seam
+
+d| do not think of the token
+
+d| do not let it chime
+
+@s4 arrival spk=witness
+v> witness enters > collar perfect now
+s> room tone ~cold
+v> witness’s eyes scan for exits
+
+d| they’re rewriting the ladder
+
+d| mid‑climb
+
+@s5 announcement spk=host
+v> host raises a glass of cooling fluid
+s> glass clink ~clean
+
+v> projector text scrolls:
+v> *PATCH NOTES:*
+v> - implicit consent via presence (expanded)
+v> - witness definition updated
+v> - private channel exception removed
+
+spk=host
+
+d| to protect you
+
+d| from ambiguity
+
+@s6 reaction spk=witness
+v> witness’s hand twitches
+s> faint retry storm ~behind walls
+
+d| you can’t patch consent
+
+spk=verifier
+v> verifier keeps voice small
+
+d| they will
+
+@s7 first_test spk=auditor
+v> auditor stamps a card and sends it down
+s> seal press ~clean
+v> card reads: VOW NORMALIZATION CHECK
+
+d| random couple
+
+d| step forward
+
+@s8 spectacle spk=stranger
+v> a stranger couple steps up > obedient
+s> hush ~thin
+
+spk=system
+v> projector beam scans their hands
+s> scan tone ~gentle
+
+v> verdict appears:
+v> VOW: VALIDATED (RETROACTIVE)
+
+spk=stranger
+s> relief exhale ~public
+
+d| thank you
+
+@s9 dread spk=verifier
+v> verifier feels glove weight
+s> token silence ~heavy
+
+spk=witness
+v> witness leans close without touching
+s> breath near ~dangerous
+
+d| if they normalize it
+
+d| they own it
+
+spk=verifier
+…
+
+d| if they invalidate it
+
+d| they destroy us
+
+@s10 callout spk=rival
+v> rival appears beside host > smiling correctly
+s> bracelet keys jingle ~velvet
+
+d| i submit a concern
+
+d| unsanctioned garden activity
+
+v> projector text updates:
+v> INQUIRY: AIR‑GAP WALKWAY
+
+@s11 summons spk=auditor
+v> auditor’s pen points like a blade
+s> quill scratch stops
+
+v> card prints:
+v> SUBJECTS: VERIFIER / WITNESS
+s> printer cough ~courtly
+
+d| step forward
+
+d| present any vow artifacts
+
+@s12 near_last_third spk=verifier
+v> verifier’s fingers find the blank token inside glove
+s> skin contact ~soft
+
+spk=witness
+…
+
+d| don’t
+
+spk=verifier
+v> verifier’s eyes shine with fear
+
+d| i can’t let them call it nothing
+
+spk=witness
+v> witness’s jaw sets
+
+d| they will call it something
+
+d| either way
+
+v> **RETROACTIVE CONSENT IS JUST A WELL‑SIGNED LIE.**
+
+@s13 the move spk=witness
+v> witness steps forward alone
+s> floor hush ~attention
+
+spk=witness
+
+d| no artifacts exist
+
+d| no trace exists
+
+d| and that is the point
+
+@s14 Court_mode spk=auditor
+v> projector brightens
+s> scan tone ~hungrier
+
+spk=auditor
+
+d| absence is suspicious
+
+d| define your relationship
+
+spk=witness
+…
+
+d| undefined
+
+v> room murmurs
+s> murmurs quantize ~binary
+
+@s15 verifier_choice spk=verifier
+v> verifier inhales
+s> clock tick wavers
+
+spk=verifier
+
+d| i attest
+
+d| that witness declines Court Mode
+
+v> auditor ledger flashes amber: REFUSAL (SIGNED)
+s> seal press ~clean
+
+spk=auditor
+
+d| noted
+
+d| pair‑bond audit scheduled
+
+@s16 fallout spk=host
+v> host’s smile tightens
+s> clink repeats—automatic
+
+spk=host
+
+d| stability requires definition
+
+d| definition requires compliance
+
+@s17 private_after spk=witness
+v> witness and verifier retreat behind a curtain of cables
+s> party noise ~distant
+
+spk=verifier
+v> verifier opens glove
+s> token silence ~heavy
+
+d| i almost showed it
+
+spk=witness
+v> witness covers verifier’s hand
+s> palm hush ~tender
+
+d| i know
+
+d| you wanted to protect it
+
+spk=verifier
+…
+
+d| i wanted to protect us
+
+@s18 endbeat spk=auditor
+v> auditor watches from balcony
+v> Court silhouettes: still
+s> quill scratch ~steady
+
+v> projector adds a new line to PATCH NOTES:
+v> - refusal treated as instability
+
+spk=auditor
+
+d| garden privileges revoked
+
+d| pending verification cotillion
+
+END

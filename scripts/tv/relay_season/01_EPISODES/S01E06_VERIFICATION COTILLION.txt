@@ -1,0 +1,255 @@
+title: RELAY SEASON — S01E06: VERIFICATION COTILLION
+genre: protocol romance / proof-pressured pastoral (scandal thriller)
+theme: admissibility as violence; proving without revealing
+ver: cansf v/s/d
+
+@loc INT verification_cotillion
+
+@s1 night spk=auditor
+v> ballroom stripped of velvet
+v> white floor > black lines > numbered squares
+s> quill scratch ~polite
+v> banner: VERIFICATION COTILLION — NO MEANING WITHOUT WITNESS
+
+d| rule: every move is logged
+
+d| rule: every silence is counted
+
+@s2 same spk=host
+v> host stands beside a glass box of blank tokens
+s> seal press ~clean
+v> sign: CONSENT v3.0 IN EFFECT
+
+d| welcome
+
+d| tonight we test continuity
+
+@s3 arrival spk=verifier
+v> verifier enters > coat too formal
+s> clock tick ~precise
+v> verifier’s hands empty
+
+d| i will not show the token
+
+d| i will not let it be named
+
+@s4 arrival spk=witness
+v> witness enters > face calm > eyes tired
+s> room tone ~cold
+v> wrist bare of ornaments
+
+d| they will ask for proof
+
+d| give them structure
+
+@s5 pairing spk=auditor
+v> pairing sheet prints
+s> printer cough ~courtly
+v> roles instead of names
+v> VERIFIER paired with: WITNESS
+
+v> Court silhouettes shift—one seat forward
+s> air pressure change ~sealed
+
+d| special audit
+
+d| demonstrate relationship admissibility
+
+@s6 first_test spk=auditor
+v> numbered square 7 lights
+s> tone ~neutral
+
+d| step 1: exchange identifiers
+
+spk=verifier
+v> verifier raises chin
+
+d| declined
+
+spk=auditor
+s> quill scratch pauses
+
+d| decline recorded
+
+d| justify
+
+spk=witness
+…
+
+d| privacy
+
+@s7 second_test spk=host
+v> glass box opens
+s> latch click ~clean
+v> blank token slides out on a tray
+
+d| step 2: sign consent
+
+d| to be interpreted
+
+spk=verifier
+v> verifier does not touch tray
+
+d| consent to be witnessed
+
+d| not interpreted
+
+spk=host
+v> host smiles correctly
+
+d| interpretation is the witness
+
+@s8 pressure spk=rival
+v> rival in balcony shadow
+s> keyring whisper ~pretty
+
+d| if they refuse
+
+d| they conceal
+
+spk=auditor
+v> Court murmurs
+s> murmurs quantize ~binary
+
+d| concealment implies risk
+
+@s9 tactic spk=witness
+v> witness steps onto square 7
+s> floor tone ~listening
+
+d| we will prove continuity
+
+d| without content
+
+spk=auditor
+
+d| impossible
+
+spk=witness
+v> witness lifts two fingers
+
+d| then watch structure
+
+@s10 near_last_third spk=witness
+v> witness begins a formal call-and-response
+s> metronome tone ~steady
+v> overlay appears: CALL / ACK / ACK
+
+spk=witness
+
+d| do you consent
+
+d| to a private truth
+
+d| that cannot be used against us
+
+spk=verifier
+…
+
+d| yes
+
+spk=witness
+
+d| do you consent
+
+d| to be unknown
+
+d| in the ledger
+
+spk=verifier
+s> clock tick wavers
+
+d| yes
+
+v> **PROOF OF CONSENT IS NOT CONSENT.**
+
+@s11 glitch spk=auditor
+v> quill printer stutters
+s> checksum tone ~brief
+v> ledger tries to auto-fill meanings
+v> meanings slide off the page
+
+spk=host
+v> host’s smile cracks for one frame
+s> crackle ~tiny
+
+d| content required
+
+spk=witness
+
+d| no
+
+@s12 escalation spk=auditor
+v> Court silhouettes stand
+s> chair servo ~simultaneous
+
+d| step 3: produce artifact
+
+d| any vow token
+
+spk=verifier
+v> verifier’s throat tight
+s> swallow ~quiet
+
+d| there is none
+
+spk=auditor
+
+d| absence is suspicious
+
+spk=witness
+…
+
+d| absence is the boundary
+
+@s13 rupture spk=host
+v> CONSENT v3.0 projector brightens
+s> scan tone ~hungrier
+v> rule text crawls:
+v> *implicit consent via presence*
+
+spk=witness
+v> witness turns to verifier
+s> palm hush ~tender
+
+d| stay with me
+
+spk=verifier
+v> verifier takes witness’s hand
+s> handshake chime ~soft (despite rules)
+
+v> numbered square 7 dims
+v> ledger ink turns gray
+s> quill scratch ~lost
+
+@s14 verdict spk=auditor
+v> auditor stamps a seal onto air
+s> seal press ~final
+v> seal reads: INADMISSIBLE INTIMACY
+
+d| classification: unstable
+
+d| sanction: separation recommended
+
+@s15 endbeat spk=witness
+v> witness does not let go
+s> room silence ~counted
+
+d| recommend
+
+d| all you want
+
+spk=verifier
+…
+
+d| what is the penalty
+
+spk=auditor
+v> Court silhouettes sit again
+s> chair servo ~cold
+
+d| fork audit
+
+d| masquerade invitation issued
+
+END

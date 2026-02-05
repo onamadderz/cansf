@@ -1,0 +1,253 @@
+title: RELAY SEASON — S01E02: THE ATTESTATION SALON
+genre: protocol romance / protocol pastoral (scandal thriller)
+theme: endorsements as power; permissions as intimacy
+ver: cansf v/s/d
+
+@loc INT attestation_salon
+
+@s1 evening spk=host
+v> candlelit racks > mirrored brass > velvet rope around a ledger
+s> quill printer whisper ~continuous
+v> sign: ATTESTATION SALON — SPEAK IN SIGNATURES
+
+d| welcome
+
+d| reputations updated nightly
+
+@s2 same spk=auditor
+v> auditor seated at ledger altar
+v> ink wells labeled: READ / WRITE / WITNESS
+s> seal press ~clean
+
+d| rule: every claim must name a scope
+
+d| rule: every scope leaves a trace
+
+@s3 arrival spk=verifier
+v> verifier enters > gloves immaculate
+s> clock tick ~precise
+v> verifier’s dance card tucked inside coat
+
+d| do not escalate
+
+d| the Court is listening
+
+@s4 arrival spk=witness
+v> witness enters > collar slightly undone
+s> room tone ~warm
+v> witness scans faces > avoids the balcony corner
+
+d| it’s only ink
+
+d| until it isn’t
+
+@s5 approach spk=host
+v> host offers both a thin strip of paper
+v> strip header: ENDORSEMENT (ONE LINE)
+s> paper whisper ~dry
+
+d| if you endorse
+
+d| you become accountable
+
+@s6 aside spk=verifier
+v> verifier and witness stand behind a privacy screen of frosted glass
+s> muted laughter ~elsewhere
+v> their shadows overlap by accident
+
+spk=witness
+
+d| your second dance mark faded
+
+d| did you see
+
+spk=verifier
+v> verifier nods once
+s> swallow ~quiet
+
+d| the Court can’t read content
+
+d| so it edits structure
+
+spk=witness
+…
+
+d| then we make structure lie
+
+@s7 request spk=witness
+v> witness slides a blank endorsement strip toward verifier
+s> ink cap twist ~soft
+
+d| endorse my continuity
+
+d| one line
+
+d| small scope
+
+spk=verifier
+v> verifier’s pen hovers
+s> quill printer pauses ~listening
+
+d| endorsement is a promise
+
+spk=witness
+
+d| so is a dance
+
+@s8 interruption spk=rival
+v> a rival agent drifts near > smiling correctly
+s> keychain tick ~polished
+
+d| verifier
+
+d| your timing last night was… notable
+
+spk=verifier
+v> verifier keeps eyes on paper
+
+d| it was within norms
+
+spk=rival
+
+d| norms are a range
+
+d| scandals live inside ranges
+
+@s9 the ask spk=host
+v> host taps ledger
+s> ledger knock ~polite
+
+d| if you want safety
+
+d| request a permission in public
+
+spk=verifier
+…
+
+d| define safety
+
+spk=host
+
+d| admissibility
+
+@s10 offer spk=verifier
+v> verifier turns to witness
+s> room hush ~thin
+
+d| i can grant you read-only
+
+d| on one memory
+
+d| witnessed
+
+spk=witness
+v> witness stills
+s> candle pop ~loud
+
+d| that’s not romance
+
+d| that’s a cage with lace
+
+spk=verifier
+v> verifier flinches—tiny
+
+d| it’s also a shield
+
+@s11 escalation spk=rival
+v> rival laughs without sound
+s> laugh replaced by seal press
+
+d| grant write-once
+
+d| if you’re serious
+
+spk=auditor
+v> auditor’s pen lifts
+s> quill scratch stops
+
+d| write-once is intimate
+
+d| and litigable
+
+@s12 choice spk=verifier
+v> verifier looks toward balcony corner
+v> Court silhouettes: still
+s> clock tick ~louder
+
+spk=verifier
+…
+
+d| witness
+
+d| do you consent
+
+d| to a trace
+
+spk=witness
+v> witness’s hand opens
+s> palm silence ~tender
+
+d| i consent
+
+d| to you
+
+d| not to them
+
+@s13 loophole spk=witness
+v> witness takes the endorsement strip back
+v> flips it over
+s> paper turn ~clean
+
+d| then endorse a smaller thing
+
+d| endorse my refusal
+
+spk=verifier
+v> verifier’s pen touches paper
+s> ink bite ~real
+
+d| “I attest: WITNESS declines Court Mode.”
+
+v> endorsement strip warms
+s> seal press ~implied
+
+@s14 reaction spk=auditor
+v> ledger ink blooms amber
+v> a new category appears: REFUSAL (SIGNED)
+s> room tone shifts ~respect
+
+d| endorsement accepted
+
+d| scope: social
+
+@s15 consequence spk=rival
+v> rival’s smile slips
+s> key jingle stops
+
+d| clever
+
+d| the Court will hate this
+
+spk=witness
+…
+
+d| then they can audit my silence
+
+@s16 tag spk=host
+v> host stamps the strip’s corner
+s> seal press ~clean
+v> stamp reads: ADMISSIBLE (NEGATIVE)
+
+spk=verifier
+v> verifier pockets the strip like contraband
+s> paper whisper ~intentional
+
+d| this is a move
+
+spk=witness
+
+d| yes
+
+d| and it means something
+
+END

@@ -1,0 +1,197 @@
+title: RELAY SEASON — S01E01: THE RELAY BALL
+genre: protocol romance / protocol pastoral (scandal thriller)
+theme: legible moves; first sync; admissibility pressure
+ver: cansf v/s/d
+
+@loc INT grand_relay_ballroom
+
+@s1 dusk spk=announcer
+v> chandelier of blinking ports
+v> velvet drapes > cable braids like ribbons
+s> handshake chime ~soft
+v> banner: HOUSE RELAY INVITES YOU TO SYNCHRONIZE
+
+d| calling hours open
+
+@s2 moments_later spk=auditor
+v> auditor dais > quill printer > seal stamp
+s> audit quill scratch ~polite
+v> dance cards stacked > each card pre-signed
+
+d| rule: two dances max
+
+d| rule: no private channels on premises
+
+d| rule: all sessions witnessed for structure
+
+@s3 arrival spk=verifier
+v> verifier enters > coat immaculate > keys nested
+s> clock tick ~precise
+v> verifier scans room like a checklist
+
+d| observe protocols
+
+d| do not improvise
+
+@s4 same spk=witness
+v> witness enters > older firmware elegance > shoes scuffed
+s> room tone ~warm
+v> witness pauses at threshold > watches others sync
+
+d| interpret less
+
+d| notice more
+
+@s5 introductions spk=announcer
+v> announcement scrolls across frosted glass
+s> name bell ~distant
+v> verifier and witness placed within one hop
+
+d| introduction requested
+
+d| consent pending
+
+@s6 first_ticket spk=auditor
+v> auditor offers verifier a dance card
+v> ink still wet
+s> seal press ~clean
+
+d| select partner
+
+d| present ticket
+
+d| bounded session begins only on acceptance
+
+@s7 approach spk=verifier
+v> verifier steps to witness
+s> handshake chime ~soft (in time)
+
+d| request: one dance
+
+spk=witness
+v> witness studies the ticket
+s> paper whisper ~careful
+
+d| your request is admissible
+
+d| do you want it to be true
+
+spk=verifier
+…
+
+d| both
+
+@s8 acceptance spk=witness
+v> witness signs the ticket with a small mark
+v> mark looks like: a pause
+s> ink dry ~fast
+
+d| accepted
+
+@s9 dance_one spk=verifier
+v> dance floor: concentric rings of light
+s> waltz clock ~steady
+v> protocol overlay appears: TURN-TAKE / ACK / ACK
+
+d| nonce
+
+spk=witness
+v> witness offers a token—warm from pocket
+
+d| received
+
+d| your nonce
+
+spk=verifier
+v> verifier hesitates one beat too long
+s> tiny audience cough ~polite
+
+d| …
+
+d| here
+
+@s10 audit_glance spk=auditor
+v> auditor’s pen hovers
+s> quill scratch pauses
+v> auditor does not record content
+v> only timing
+
+d| structure valid
+
+d| latency within norms
+
+@s11 second_dance_offer spk=witness
+v> lights shift key
+s> handshake chime ~soft (slightly early)
+
+d| you may request a second dance
+
+d| if you intend it
+
+spk=verifier
+v> verifier looks at the Court balcony
+v> silhouettes there: still
+s> balcony silence ~judging
+
+d| request: second dance
+
+@s12 interruption spk=announcer
+v> announcement interrupts music
+s> bell tone ~sharp
+v> a seal appears on glass: AUDITOR COURT
+
+d| notice: admissibility audit
+
+d| random pairing selected
+
+d| re-verify continuity
+
+@s13 selection spk=auditor
+v> auditor’s list prints
+s> printer cough ~courtly
+v> names replaced by roles
+v> VERIFIER paired with: STRANGER_A
+v> WITNESS paired with: STRANGER_B
+
+d| comply
+
+@s14 refusal_seed spk=witness
+v> witness holds verifier’s signed ticket between two fingers
+s> paper tremble ~tiny
+
+d| if i comply
+
+d| our second dance becomes hearsay
+
+spk=verifier
+v> verifier swallows the urge to argue
+s> clock tick ~louder
+
+d| then we comply
+
+d| and remember anyway
+
+spk=witness
+…
+
+d| dangerous
+
+@s15 cliffhanger spk=auditor
+v> auditor stamps a new seal onto the air
+s> seal press ~final
+v> ballroom protocol overlay updates: COURT MODE
+
+d| private meaning discouraged
+
+d| stable outcomes preferred
+
+v> witness’s mark on the ticket fades slightly
+s> ink hiss ~wrong
+
+spk=witness
+
+d| they can’t stop us
+
+d| they can only change what counts
+
+END

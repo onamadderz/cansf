@@ -1,0 +1,264 @@
+title: RELAY SEASON — S01E04: GARDEN WALK (AIR‑GAPPED)
+genre: protocol romance / protocol pastoral (scandal thriller)
+theme: private truth; the unsigned vow
+ver: cansf v/s/d
+
+@loc EXT relay_gardens
+
+@s1 late_evening spk=auditor
+v> hedge mazes of braided fiber
+v> lanterns glow > no cameras
+s> wind through cables ~soft
+v> sign at gate: AIR‑GAPPED WALKWAY
+
+s> seal press ~clean
+
+d| rule: no relay
+
+d| rule: no logs
+
+d| rule: no Court Mode
+
+d| exception: a witness may be present
+
+d| but may not record
+
+@s2 moments_later spk=verifier
+v> verifier enters garden > hands empty
+s> clock tick absent
+v> verifier glances at wrist—blank
+
+d| without timestamps
+
+d| i feel… unkeyed
+
+@s3 same spk=witness
+v> witness steps from a path fork
+s> leaf rustle ~warm
+v> witness carries two lanterns
+
+d| good
+
+d| be only here
+
+@s4 walking spk=verifier
+v> they walk side by side > not touching
+s> gravel crunch ~quiet
+v> fiber hedges absorb sound
+
+d| the Court scheduled an inquiry
+
+d| about our waltz
+
+spk=witness
+
+d| of course
+
+d| they mistook learning for evidence
+
+spk=verifier
+…
+
+d| i can’t protect you
+
+d| if i can’t prove you
+
+spk=witness
+v> witness stops
+s> lantern flame steady
+
+d| proving is not protecting
+
+d| it’s making me admissible
+
+@s5 fork spk=verifier
+v> path splits: LEFT labeled: SAFE / RIGHT labeled: TRUE
+s> sign creak ~old
+
+spk=verifier
+v> verifier stares
+s> breath held ~counted
+
+d| who labeled this
+
+spk=witness
+
+d| nobody
+
+d| the garden does not assign
+
+d| it reflects
+
+@s6 choice spk=witness
+v> witness steps to RIGHT: TRUE
+s> gravel shift ~decision
+
+d| come
+
+d| no receipts
+
+spk=verifier
+v> verifier hesitates
+s> absence ~loud
+
+d| if we do this
+
+d| the Court will call it…
+
+spk=witness
+…
+
+d| irrelevant
+
+@s7 airgap spk=verifier
+v> deeper hedge corridor > lantern light softens
+s> wind through cables ~soft (closer)
+v> verifier’s internal scheduler tries to tick—fails
+
+spk=verifier
+
+d| i want one thing
+
+d| that can’t be re‑paired
+
+spk=witness
+v> witness’s hand opens
+s> palm hush ~tender
+
+d| then don’t ask for a key
+
+d| ask for a vow
+
+@s8 the vow_token spk=witness
+v> witness removes a small blank token
+v> token has no serial
+s> no chime
+
+spk=verifier
+v> verifier’s eyes widen
+s> swallow ~quiet
+
+d| unsigned
+
+spk=witness
+
+d| unassigned
+
+d| unowned
+
+v> witness places token between them
+
+@s9 near_last_third spk=verifier
+v> verifier lifts token carefully
+s> token silent ~alive
+
+spk=verifier
+
+d| if i accept
+
+d| i can’t cite it
+
+d| i can’t defend it
+
+spk=witness
+v> witness nods once
+
+d| yes
+
+d| that is the cost
+
+v> **A VOW WITHOUT WITNESS IS STILL A VOW.**
+
+@s10 witness_present spk=auditor
+v> far down the path, auditor stands still
+v> eyes lowered
+s> quill absent
+
+spk=auditor
+…
+
+d| i am here
+
+d| but i will not transcribe this
+
+@s11 exchange spk=verifier
+v> verifier places a thumbprint on blank token
+s> skin contact ~soft
+v> token warms
+
+spk=witness
+v> witness adds their mark
+s> breath sync ~one cycle
+
+v> token does not chime
+v> token does not seal
+
+spk=verifier
+
+d| nothing happened
+
+spk=witness
+…
+
+d| everything happened
+
+@s12 intrusion spk=rival
+s> key jingle ~distant
+v> a laugh echoes from outside hedge
+v> not inside garden
+
+spk=verifier
+v> verifier freezes
+s> fear tick ~invented
+
+d| someone is listening
+
+spk=auditor
+v> auditor’s jaw tightens
+
+d| air‑gap intact
+
+d| but gossip is not networked
+
+@s13 concealment spk=witness
+v> witness slips the token into verifier’s glove
+s> paper-thin whisper ~secret
+
+d| keep it
+
+d| do not show
+
+d| do not prove
+
+spk=verifier
+…
+
+d| i can’t carry this alone
+
+spk=witness
+v> witness’s eyes soften
+
+d| you won’t
+
+d| just not publicly
+
+@s14 endbeat spk=auditor
+v> auditor turns away first
+s> footsteps swallowed by hedge
+
+d| tomorrow
+
+d| the Court will ask for a trace
+
+spk=verifier
+v> verifier looks at glove
+s> token silence ~heavy
+
+d| and we will have none
+
+spk=witness
+…
+
+d| then we will have truth
+
+END
