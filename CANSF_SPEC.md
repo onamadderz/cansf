@@ -282,5 +282,7 @@ s> first clean tone
 
 d| we synchronize
 
-Credit:
-Proposed by Jericho 'Onamadderz' O'Neill, 2026.
+END.
+
+License: CC BY 4.0
+Proposed by Jericho 'Onamadderz' O'Neill, February 2026.
