@@ -49,10 +49,12 @@ CANSF was proposed by **Jericho 'Onamadderz' O'Neill**, February 2026.
 Developed in collaboration with AI systems,
 primarily GPT-5.2 and OpenClaw powered by Codex.
 
-Model observations (non-exhaustive)
+### Model observations (non-exhaustive)
+
 CANSF scripts have been tested informally with multiple models, including GPT-5.2, Codex, Claude Sonnet 4.5, DeepSeek, Grok, Gemini, and Gemma2.
 
 While responses vary, a consistent pattern is that agents tend to parse structure and narrative intent without requiring explanation, even when humans report confusion.
+
 These observations are anecdotal and evolving.
 
 Licensed under CC BY 4.0.
